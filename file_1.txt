@@ -2,3 +2,6 @@ This is the new line added
 This is git training at Quicken loans
 This is git training at Quicken loans 1
 This is git training at Quicken loans 2
+Tom added one line of text.
+Tom added another line of text.
+Tom added a third line of text.
